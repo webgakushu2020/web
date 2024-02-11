@@ -29,17 +29,14 @@
 - `[デスクトップ]>[プログラミング]>[練習]`  
 - [ ] ②VSCodeからフォルダを開く  
 - `[デスクトップ]>[プログラミング]`を指定  
-<br>
 - [ ] ③index.htmlを新規作成  
 ![start](img/01_start1-2.png)　　
-<br>
 - [ ] ④保存  
 - 保存前  
 ![start](img/01_start1-3.png)  
 - **ショートカットキー（Cntl + S）**  
 - 保存後  
 ![start](img/01_start1-4.png)
-<br>
 - [ ] ⑤ブラウザ表示  
 - `[デスクトップ]>[プログラミング]>[練習]>index.html`  をダブルクリック  
 ![start](img/01_start1-5.png)

@@ -1,16 +1,14 @@
 
 # **01_学習を始める前に**
 
-## **様々な種類のWebサイト**
+## **コースで作成するサイト**
+ 
+- [ ] 猫のサイト（サンプルサイト作成）
 
-- [ ] お気に入りのサイトを探してみよう！
-- https://sankoudesign.com/
+- https://webgakushu.com/TRY/webcorse/
 
-<br><br>
-
-## **webサイトの仕組み**
-
-![start](img/01_start1-1.png)
+- [ ] 自己紹介サイト（課題と自由制作）  
+- [ ] Webアワードサイト（自由制作）
 
 <br><br>
 
@@ -47,16 +45,22 @@
 
 <br><br>
 
-## **コースで作成するサイト**
- 
-- [ ] 猫のサイト（サンプルサイト作成）
+## **様々な種類のWebサイト**
 
-- https://webgakushu.com/TRY/webcorse/
-
-- [ ] 自己紹介サイト（課題と自由制作）  
-- [ ] Webアワードサイト（自由制作）
+- [ ] お気に入りのサイトを探してみよう！
+- https://sankoudesign.com/
 
 <br><br>
+
+## **webサイトの仕組み**
+
+![start](img/01_start1-1.png)
+
+<br><br>
+
+
+
+
 
 ## **HTMLとCSS**
 

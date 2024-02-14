@@ -3,7 +3,7 @@
 
 ## **自己紹介**
 
-## **授業の進め方**
+## **オリエンテーション動画**
 
 - 水曜日と金曜日の演習
 - 演習の他にマンツーマンサポート
@@ -14,7 +14,4 @@
 
 ![info](img/00_info1-3.jpg)
 ![info](img/00_info1-4.jpg)
-
-
-https://drive.google.com/file/d/1rmTs_7L-ARmVHh6kUoCYsBv4qmJIYrcT/view?usp=sharing
 

@@ -56,7 +56,7 @@
 - リスト`<ul>`
 - `<ol>`に変えるとどうなる  
   `u`n ordered `l`ist  
-  `o`rdered `l`ist
+  `o`rdered `l`ist  
 ![html](img/03_index1-6.png)
 
 <br><br>

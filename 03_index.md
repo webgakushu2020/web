@@ -56,7 +56,7 @@
 - リスト`<ul>`
 - `<ol>`に変えるとどうなる  
   `u`n ordered `l`ist  
-  `o`rdered `l`ist  
+  `o`rdered `l`ist
 ![html](img/03_index1-6.png)
 
 <br><br>
@@ -99,33 +99,16 @@
 
 <br><br>
 
-## **課題①**
+## **自己紹介サイト用のフォルダを作ろう**
 
 - [ ] 自己紹介サイトを作ろう
 - `[プログラミング]`の中に`[profile]`フォルダ作成
 - `[プログラミング]>[profile]`の中に`[images]`フォルダ作成(画像を入れる場所)
 - `[プログラミング]>[profile]`の中に>`index.html`ファイル作成
 
-## **課題②**
-
-- ベースを作る（01_index.html参照)
-- グループを３つ作る（02_index.html参照)  
-  （`<header><main><footer>`）
-
-## **課題③**
-
-- 見出し
-- 画像を入れる
-- 個人情報
-- 記事（趣味など）
-
-## **課題④**
-
-- ２ページ目のリンク
-
 <br><br>
 
-## **参考**
+## **再現課題一覧**
 
-  ![html](img/03_index1-11.png)
-  
+https://webgakushu2020.github.io/web/kadai/
+

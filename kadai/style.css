@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+html{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+}
+
+ul{
+    list-style: none;
+}
+
+header {
+    background-color: aliceblue;
+    padding: 50px 0;
+}
+
+main{
+    background-color: beige;
+}
+
+footer{
+    background-color: rgb(125, 148, 141);
+}
+
+h1{
+    padding: 20px;
+}
+
+.section1{
+    width: 80%;
+    margin: auto;
+    padding: 50px 0;
+    text-align: left;
+}
+
+.section1 ul li{
+    padding: 10px 0;
+}
+
+footer p{
+    padding: 10px;
+    color: #fff;
+}

@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+html{
+    text-align: center;
+}
+
+header {
+    background-color: aliceblue;
+    padding: 50px 0;
+}
+
+header img {
+    border-radius: 50%;
+}
+
+main{
+    background-color: beige;
+}
+
+footer{
+    background-color: rgb(125, 148, 141);
+}

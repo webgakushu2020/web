@@ -52,7 +52,8 @@
   ![css](img/04_css1-15.png)
 
 <br>
-下の文章は　p　でもあり .text でもある
+下の文章は　p　でもあり .text でもある  
+
 ```html
   <p class="text">
       猫を飼うと幸福度が高まる？<br>

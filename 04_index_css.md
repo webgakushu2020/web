@@ -246,7 +246,20 @@ https://fonts.google.com/
 
 <br>
 
+  ![css](img/04_css1-16.png)
+
+<br>
+
 ### **フッターのデザイン(13_style.css)(教科書なし)**
+
+コピーライト
+```html
+
+<footer>
+    <p><small>&copy;2023 cat</small></p>
+</footer>
+
+```
 
 <br>
 
@@ -260,6 +273,8 @@ https://fonts.google.com/
 ### **角を丸める(15_style.css)(教科書なし)**
 
 - border-radius
+
+  ![css](img/04_css1-17.png)
 
 <br>
 

@@ -288,3 +288,7 @@ https://fonts.google.com/
 ## **再現課題一覧**
 
 https://webgakushu2020.github.io/web/kadai/
+
+## **復習課題一覧**
+
+https://webgakushu2020.github.io/web/review/

@@ -307,7 +307,7 @@ strong {
     left: 0;
     width: 53px;
     z-index: 999;
-    background-color: #5eb3ab;
+    background-color: #0040ff;
     border-radius: 0 20px 20px 0;
     transition: all 1s;
 }
@@ -943,5 +943,17 @@ strong {
         color: #fff;
         font-weight: bold;
         padding: 30px 10px;
+    }
+}
+
+@media screen and (max-width:500px){
+    .page_link_n{
+        display: none;
+    }
+    .question{
+        display: block;
+    }
+    .question .answer{
+        width: 100%;
     }
 }
